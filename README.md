@@ -6,7 +6,7 @@
 
 Projeto construído do desafio da plataforma Rocketseat.
 
-[🔗Clique aqui para acessar](https://pedrosantiagodev.github.io/desafios-rocketBlog/)
+[🔗Clique aqui para acessar](https://pedrosantiagodev.github.io/desafios-rocketblog/)
 
 ## 🚀Tecnologias
 
